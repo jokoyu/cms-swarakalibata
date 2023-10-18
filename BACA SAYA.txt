@@ -1,0 +1,43 @@
+UNTUK MENJALANKAN SCRIPT DI LOCALHOST
+=====================================
+
+- Disarankan memakai software Xampp
+- Ekstrak file swarakalibata.rar lalu letakkan pada folder htdocs pada Xampp
+- Konfigurasi koneksi database persiksa file koneksi.php
+  pada folder swarakalibata/config
+ 
+  Sesuaikan dengan database:
+
+  $server = "localhost";
+  $username = "root";
+  $password = "";
+  $database = "namadatabase";
+  (bila pada Xampp kosongkan password)
+
+- Dumping file swarakalibata.sql ke MySQL
+  pada folder swarakalibata/database
+- Jalankan browser http://localhost/namafolder
+- SELESAI
+
+
+UNTUK LOGIN KE ADMINISTRATOR
+============================
+-ketikan pada browser http://localhost/namafolder/redaktur
+-Login:
+ Username: admin
+ password: admin
+
+
+UNTUK SETTING 404 PAGE NOT FOUND
+=================================
+
+-cari  file 404.shtml pada path folder utama swarakalibata
+ ubah dengan URL web anda
+
+
+UNTUK SETTING RSS
+=================================
+
+cari file rss.php
+-rubah nama <title>.::swarakalibata::.</title> 
+ dengan nama web anda.
