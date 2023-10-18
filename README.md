@@ -1,4 +1,4 @@
-# CMS-Lokomedia-swarakalibata
+# CMS Swarakalibata
 CMS Lokomedia swarakalibata merupakan source code dari CD buku "Proyek Website Super Wow! dg PHP &amp; jQuery"
 
 Tahapan upload :
