@@ -2,15 +2,15 @@
 
 This CMS is the main source code for several websites that have been modified, including:
 
-1. https://www.wartasawit.com
-2. https://www.wartatambang.com
-3. https://www.jatengdigital.com
-4. https://www.infomiliter.com
-5. https://www.ikaunissula.or.id
-6. https://www.gojateng.com
-7. https://www.indonesianer.com
-8. https://www.wartakonsumen.com
-9. https://www.wartaekspor.com 
+1. www.wartasawit.com
+2. www.wartatambang.com
+3. www.wartakonsumen.com
+4. www.infomiliter.com
+5. www.infopesawat.com
+6. www.indonesianer.com
+7. www.kilaswarta.com
+8. www.gojateng.com
+9. www.jatengdigital.com
 
 Here are the steps to download CMS Swarakalibata
 
